@@ -1,3 +1,7 @@
+0.1.1
+	Added missing localisation
+
+-----------------------
 0.1.0
 	Initial Release
 	Adds new wooden long wire eletric pole type using old wooden pole graphics
