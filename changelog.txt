@@ -1,0 +1,4 @@
+0.1.0
+	Initial Release
+	Adds new wooden long wire eletric pole type using old wooden pole graphics
+	Updates the small electric pole image to match the placed building
