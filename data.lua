@@ -9,7 +9,7 @@ data:extend({
         icon = Constants.AssetModName .. "/graphics/icon/large-wooden-electric-pole.png",
         icon_size = 32,
         flags = {"placeable-neutral", "player-creation", "fast-replaceable-no-build-while-moving"},
-        minable = {hardness = 0.2, mining_time = 0.5, result = "small-electric-pole"},
+        minable = {hardness = 0.2, mining_time = 0.5, result = "large-wooden-electric-pole"},
         max_health = 100,
         corpse = "small-remnants",
         collision_box = {{-0.1, -0.1}, {0.1, 0.1}},

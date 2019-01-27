@@ -5,3 +5,5 @@ Adds a long wire reach wooden electric pole to connect power across larger dista
 The Large Wooden Electric Pole costs double the regular Small Electric Pole, making it slightly more cost-efficient over longer distances. It has no supply radius.
 The games vanilla Small Electric Pole is changed to use an icon image that matches the in-game building (flat-topped wooden pole).
 The new Large Wooden Electric Pole uses an old version of the games wooden pole graphics for its building and icon.
+
+Once high resolution graphics are released for the Small Electric Pole I will create something more suitable for the Large Wooden Electric Pole.
